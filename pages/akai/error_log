@@ -1,0 +1,29 @@
+[20-Jun-2022 20:46:55 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:46:55 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:46:55 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:46:55 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 13
+[20-Jun-2022 20:46:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 13
+[20-Jun-2022 20:46:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 14
+[20-Jun-2022 20:47:09 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:09 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:09 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:09 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 13
+[20-Jun-2022 20:47:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 13
+[20-Jun-2022 20:47:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 14
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/simpan_master_akai.php on line 3
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/simpan_master_akai.php on line 3
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aplika69/public_html/medical_klinik/pages/akai/simpan_master_akai.php on line 3
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/aplika69/public_html/medical_klinik/pages/akai/simpan_master_akai.php on line 8
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aplika69/public_html/medical_klinik/pages/akai/simpan_master_akai.php on line 8
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 13
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 13
+[20-Jun-2022 20:47:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 14
+[20-Jun-2022 20:47:26 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:26 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:26 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 11
+[20-Jun-2022 20:47:26 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 13
+[20-Jun-2022 20:47:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 13
+[20-Jun-2022 20:47:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aplika69/public_html/medical_klinik/pages/akai/akai.php on line 14

@@ -1,0 +1,12 @@
+[19-Oct-2022 18:51:51 Asia/Jakarta] PHP Notice:  Undefined index: nama_pasien in /home/aplika69/public_html/medical_klinik/ajax/simpan_pengobatan.php on line 9
+[20-Oct-2022 06:08:27 Asia/Jakarta] PHP Notice:  Undefined index: nama_pasien in /home/aplika69/public_html/medical_klinik/ajax/simpan_pengobatan.php on line 9
+[11-Dec-2022 13:05:19 Asia/Jakarta] PHP Notice:  Undefined index: nama_racikan in /home/aplika69/public_html/medical_klinik/ajax/simpan_edit_racik.php on line 8
+[11-Dec-2022 13:05:19 Asia/Jakarta] PHP Notice:  Undefined index: stk_obat in /home/aplika69/public_html/medical_klinik/ajax/simpan_edit_racik.php on line 9
+[11-Dec-2022 13:05:19 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/aplika69/public_html/medical_klinik/ajax/simpan_edit_racik.php on line 10
+[11-Dec-2022 13:12:47 Asia/Jakarta] PHP Notice:  Undefined index: nama_pasien in /home/aplika69/public_html/medical_klinik/ajax/simpan_racikan.php on line 9
+[11-Dec-2022 13:12:47 Asia/Jakarta] PHP Notice:  Undefined index: hidden_expobat in /home/aplika69/public_html/medical_klinik/ajax/simpan_racikan.php on line 51
+[25-Dec-2022 18:14:00 Asia/Jakarta] PHP Notice:  Undefined index: nama_pasien in /home/aplika69/public_html/medical_klinik/ajax/simpan_pengobatan.php on line 9
+[08-Jan-2023 22:00:26 Asia/Jakarta] PHP Notice:  Undefined index: nama_pasien in /home/aplika69/public_html/medical_klinik/ajax/simpan_pengobatan.php on line 9
+[08-Jan-2023 22:02:48 Asia/Jakarta] PHP Notice:  Undefined index: nama_pasien in /home/aplika69/public_html/medical_klinik/ajax/simpan_pengobatan.php on line 9
+[11-Jan-2023 09:59:09 Asia/Jakarta] PHP Notice:  Undefined index: nama_pasien in /home/aplika69/public_html/medical_klinik/ajax/simpan_pengobatan.php on line 9
+[12-Jan-2023 01:25:28 Asia/Jakarta] PHP Notice:  Undefined index: nama_pasien in /home/aplika69/public_html/medical_klinik/ajax/simpan_pengobatan.php on line 9
