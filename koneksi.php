@@ -1,5 +1,5 @@
 <?php 
-	$conn = new mysqli("localhost", "aplika69_phpb432", "4]SpW11p-p", "aplika69_medical");
+	$conn = new mysqli("localhost", "nama-user", "password-database", "nama-database");
 
 	function tgl_indo($tgl) {
 		$tanggal = substr($tgl,8,2);
